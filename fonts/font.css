@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'FrancoisOne-Regular';
+  src: url('FrancoisOne-Regular.woff') format('woff'),
+       url('FrancoisOne-Regular.ttf') format('truetype'),
+       url('FrancoisOne-Regular.svg#FrancoisOne-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FrancoisOne';
+  src: url('FrancoisOne.eot');
+  src: url('FrancoisOne.woff2') format('woff2'),
+       url('FrancoisOne.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
